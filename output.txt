@@ -1,0 +1,10 @@
+2Shankz	Shank's Crew	LLB5	LB +	
+2Shankz	V3 Zoro	LLB5	LB	
+2Shankz	STND Law	LLB4	LB	STND 5
+2Shankz	STND Kid	LLB5	LB +	STND 5
+2Shankz	Ace/Yamato	LLB4	LB +	LT 5
+2Shankz	HW Law	LLB5	LB	
+2Shankz	VS Akainu	LLB5	LB +	
+2Shankz	V1 Queen	LLB4	LB	
+2Shankz	6+ ST Sabo	LLB5	LB	
+2Shankz	Rush Kaido	LLB3	LB +	Rush 5
